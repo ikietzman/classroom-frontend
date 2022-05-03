@@ -31,11 +31,11 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Roadmap for next steps
-*Move request URLs into a .env file
-*Thoroughly comment
-*Add client side validation checks and user feedback to run prior sending off requests
-*Improve API call response handling -- currently only deals with expected responses
-*Add 404 route
-*Needs a healthy dose of design work
-*Jest for unit testing, Vue Testing Library for component testing
-*Dockerize and deploy to EC2 instance
+*Move request URLs into a .env file  
+*Thoroughly comment  
+*Add client side validation checks and user feedback to run prior sending off requests  
+*Improve API call response handling -- currently only deals with expected responses  
+*Add 404 route  
+*Needs a healthy dose of design work  
+*Jest for unit testing, Vue Testing Library for component testing  
+*Dockerize and deploy to EC2 instance  
